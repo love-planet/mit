@@ -55,7 +55,7 @@
 </head>
 <body>
     <div id="container">
-        <h1>Приветик</h1>
+        <h1>👇CLICK HERE👇</h1>
         
         <!-- Language Selection Dropdown -->
         <select id="languageSelect" onchange="changeLanguage()">
